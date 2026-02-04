@@ -1,0 +1,10 @@
+# Ignore Datasets
+dataset/
+dataset_small/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore large model files (Optional - if your model is >100MB)
+# best_model.pth
