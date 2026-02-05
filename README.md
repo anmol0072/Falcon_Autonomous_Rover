@@ -9,6 +9,13 @@ REQUIERMENTS:
 5. Datetime
 6. tqmd
 
+REQUUIREMENTS FOR NLP IMPLEMENTATION:
+1.Install Ollama
+2.Type and execute ollamarun llama3.2
+3.Install streamlit 
+4.Run streamlit run dashboard.py
+5.Extract folder named Falcon 
+5.Browse masked photos and execute, the model will the directions.
 
  # 🦅 Falcon Autonomous Rover
 
