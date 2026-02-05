@@ -43,3 +43,11 @@ To ensure high reliability and better generalization across different lighting c
 ### Software Dependencies
 ```bash
 pip install torch torchvision torchaudio opencv-python numpy matplotlib tqdm
+
+
+🛠️ How to Run
+1. Clone the Repository
+Bash
+git clone [https://github.com/YOUR_USERNAME/Falcon_Autonomous_Rover.git](https://github.com/YOUR_USERNAME/Falcon_Autonomous_Rover.git)
+cd Falcon_Autonomous_Rover
+
